@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GenerarContenidos
+comment0.text=\r\n\r\n\ @author\ L\u00F3pez\ Cruz\ Luis\ Eduardo\r\n\ @version\ 2/06/26\r\n
+comment1.params=contenido
+comment1.target=boolean\ guardarContenido(Contenido)
+numComments=2

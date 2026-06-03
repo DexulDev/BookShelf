@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Libro
+comment0.text=\r\n\r\n\ @author\ L\u00F3pez\ Cruz\ Luis\ Eduardo\r\n\ @version\ 25/05/26\r\n
+comment1.params=titulo\ autor\ editorial\ id\ paginas
+comment1.target=Libro(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getEditorial()
+comment3.params=editorial
+comment3.target=void\ setEditorial(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

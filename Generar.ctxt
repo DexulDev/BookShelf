@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Generar
+comment0.text=\r\n\r\n\ @author\ L\u00F3pez\ Cruz\ Luis\ Eduardo\r\n\ @version\ 2/06/26\r\n
+comment1.params=archivoNombre\ objeto
+comment1.target=boolean\ guardarObjeto(java.lang.String,\ java.lang.Object)
+numComments=2

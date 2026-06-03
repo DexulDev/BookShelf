@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PrestamoProfesor
+comment1.params=fechaInicio\ fechaFinal\ nombreLibro
+comment1.target=PrestamoProfesor(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=fechaFinal\ adeudos
+comment2.target=boolean\ renovacion(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

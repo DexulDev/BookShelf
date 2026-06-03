@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=AlumnoException
+comment0.text=\r\n\r\n\ @author\ L\u00F3pez\ Cruz\ Luis\ Eduardo\r\n\ @version\ 20/05/26\r\n
+comment1.params=Mensaje
+comment1.target=AlumnoException(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

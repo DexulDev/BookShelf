@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Credencial
+comment0.text=\r\n\r\n\ @author\ L\u00F3pez\ Cruz\ Luis\ Eduardo\r\n\ @version\ 20/05/26\r\n
+comment1.params=nombre\ apellido\ numeroTelefono\ correoElectronico\ direccion\ fechaEmision
+comment1.target=Credencial(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ diaActual()
+comment3.params=fecha
+comment3.target=int[]\ convertirFecha(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getDatos()
+comment5.params=dias
+comment5.target=void\ actualizarVencimiento(int)
+comment6.params=
+comment6.target=boolean\ checarVigencia()
+comment7.params=
+comment7.target=void\ renovar()
+comment8.params=
+comment8.target=java.lang.String\ calcularVencimiento()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

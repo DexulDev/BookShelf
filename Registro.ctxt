@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Registro
+comment0.text=\r\n\r\n\ @author\ L\u00F3pez\ Cruz\ Luis\ Eduardo\r\n\ @version\ 2/06/26\r\n
+comment1.params=
+comment1.target=java.util.Vector\ leerClientes()
+comment2.params=
+comment2.target=java.util.Vector\ leerPrestamos()
+comment3.params=
+comment3.target=java.util.Vector\ leerUsuariosSistema()
+comment4.params=nombre\ password
+comment4.target=SistemaUsuario\ buscarUsuarioSistema(java.lang.String,\ java.lang.String)
+comment5.params=busqueda
+comment5.target=Cliente\ buscarCliente(java.lang.String)
+comment6.params=busqueda
+comment6.target=java.util.Vector\ buscarClientes(java.lang.String)
+comment7.params=id
+comment7.target=Cliente\ buscarClientePorId(int)
+comment8.params=texto
+comment8.target=java.util.Vector\ buscarClientePorTexto(java.lang.String)
+numComments=9

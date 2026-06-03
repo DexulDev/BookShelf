@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CredencialEstudiante
+comment0.text=\r\n\r\n\ @author\ L\u00F3pez\ Cruz\ Luis\ Eduardo\r\n\ @version\ 20/05/26\r\n
+comment1.params=nombre\ apellido\ numeroTelefono\ correoElectronico\ direccion\ fechaEmision
+comment1.target=CredencialEstudiante(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ renovar()
+comment3.params=
+comment3.target=java.lang.String\ calcularVencimiento()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

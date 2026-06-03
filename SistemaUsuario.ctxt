@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SistemaUsuario
+comment0.text=\r\n\r\n\ @author\ L\u00F3pez\ Cruz\ Luis\ Eduardo\r\n\ @version\ 2/06/26\r\n
+comment1.params=nombre\ password\ rol
+comment1.target=SistemaUsuario(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=java.lang.String\ getPassword()
+comment4.params=
+comment4.target=java.lang.String\ getRol()
+comment5.params=
+comment5.target=boolean\ esAdmin()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

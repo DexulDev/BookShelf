@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MainBiblioteca
+comment0.text=\r\n\r\n\ @author\ L\u00F3pez\ Cruz\ Luis\ Eduardo\r\n\ @version\ 2/06/26\r\n
+comment1.params=
+comment1.target=void\ cls()
+comment2.params=
+comment2.target=void\ pausar()
+comment3.params=
+comment3.target=java.lang.String\ menuAdmin()
+comment4.params=
+comment4.target=java.lang.String\ menuCliente()
+comment5.params=
+comment5.target=java.lang.String\ menuBuscar()
+comment6.params=
+comment6.target=java.lang.String\ menuRol()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

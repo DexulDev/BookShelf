@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GenerarPrestamos
+comment0.text=\r\n\r\n\ @author\ L\u00F3pez\ Cruz\ Luis\ Eduardo\r\n\ @version\ 2/06/26\r\n
+comment1.params=prestamo
+comment1.target=boolean\ guardarPrestamo(Prestamo)
+numComments=2

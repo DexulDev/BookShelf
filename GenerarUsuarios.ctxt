@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GenerarUsuarios
+comment0.text=\r\n\r\n\ @author\ L\u00F3pez\ Cruz\ Luis\ Eduardo\r\n\ @version\ 2/06/26\r\n
+comment1.params=cliente
+comment1.target=boolean\ guardarCliente(Cliente)
+comment2.params=usuario
+comment2.target=boolean\ guardarUsuarioSistema(SistemaUsuario)
+numComments=3

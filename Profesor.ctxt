@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Profesor
+comment0.text=\r\n\r\n\ @author\ L\u00F3pez\ Cruz\ Luis\ Eduardo\r\n\ @version\ 20/05/26\r\n
+comment1.params=nombre\ apellido\ numeroTelefono\ correoElectronico\ direccion
+comment1.target=Profesor(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=fechaInicio\ fechaFinal\ nombreLibro
+comment2.target=void\ solicitarPrestamo(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ renovarCredencial()
+comment4.params=fechaFinal\ adeudos
+comment4.target=void\ solicitarRenovacionPrestamo(java.lang.String,\ int)
+comment5.params=fechaInicio
+comment5.target=java.lang.String\ fechaFinal(java.lang.String)
+comment6.params=libro
+comment6.target=boolean\ solicitarLibro(Contenido)
+comment7.params=revista
+comment7.target=boolean\ solicitarRevista(Revista)
+comment8.params=tesis
+comment8.target=boolean\ solicitarTesis(Tesis)
+numComments=9
